@@ -22,5 +22,7 @@ Feedback Systems	Implement user-friendly suggestions
 
 🛠️ Installation
 No external libraries required.
+
 ▶️ How to Run
+
 python password_strength_checker.py
